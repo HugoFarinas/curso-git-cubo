@@ -1,2 +1,4 @@
 def fun(y)
  print y+y
+fun(3)
+
